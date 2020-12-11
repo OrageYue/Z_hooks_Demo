@@ -3,13 +3,13 @@
 
 #### 简介 | description
 
-1、复用
+**1、复用**
 
 平时工作中可能会存在很多的场景被复用，大量的代码都是重复的。导致我们可能很多时候要写重复的代码，额外的工作量很大，并且代码也看起来很臃肿。react最开始提供了HOC等方案帮助我们复用逻辑。
 
 在函数式组件中，我们没有Class那样的生命周期和state状态。所以React为我们提供了Hooks。
 
-2、Hooks
+**2、Hooks**
 
 Hooks 顾名思义，就是钩子的意思。
 
@@ -23,5 +23,5 @@ react提供常用的hooks有：
 - useCallback
 - useReducer
 
-3、自定义Hooks
+**3、自定义Hooks**
 
