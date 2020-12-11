@@ -1,0 +1,24 @@
+
+
+.logo {
+  height: 32px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0);
+  margin: 16px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+.content{
+  background-color: #fff;
+  margin: 24px 16px;
+  padding: 24px
+}
+.footer{
+  text-align:center;
+  color: rgb(138, 138, 138);
+  font-weight: 400;
+}
