@@ -1,7 +1,6 @@
 import React from 'react';
 import Editor from 'react-simple-code-editor';
 import CopyToClipboard from 'react-copy-to-clipboard';
-import  useBoolean  from '../../Hooks/useBoolean';
 import ReactTooltip from 'react-tooltip';
 import { useToggle } from 'react-use';
 import IconCopy from 'react-feather/dist/icons/clipboard';
